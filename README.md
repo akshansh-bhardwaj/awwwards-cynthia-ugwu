@@ -1,5 +1,5 @@
 # awwwards-project-1
-## Cynthia-Ugwu-website
+## Cynthia-Ugwu-Website
 
 A faithful recreation of Cynthia Ugwu's award-winning website, as recognized by Awwwards in 2023. This repository contains the replica of homepage of that website, meticulously crafted using HTML, CSS, JavaScript, GSAP(Greensock Animation Platform), and Locomotive Scroll to capture the essence of the original design and functionality.
 
